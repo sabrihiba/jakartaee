@@ -36,6 +36,11 @@
             <version>${junit.version}</version>
             <scope>test</scope>
         </dependency>
+        <dependency>
+            <groupId>org.primefaces</groupId>
+            <artifactId>primefaces</artifactId>
+            <version>16.0.1</version>
+        </dependency>
     </dependencies>
 
     <build>
